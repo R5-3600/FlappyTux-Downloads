@@ -2,13 +2,9 @@
 
 Alpha1: Released on August 23, 2023
 
-PublicBeta1: Release pending | Under closed testing
+PublicBeta1: Released on September 16, 2023
 
-V1.0.0: Testing pending | Under development
-
-V2.0.0: Development pending | Under pre-development stages
-
-V3.0.0: Development pending | Under pre-development stages
+V1.0.0: Release pending | Under closed testing
 
 ##
 
