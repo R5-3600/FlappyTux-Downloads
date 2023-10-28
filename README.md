@@ -6,7 +6,7 @@ PublicBeta1: Released on September 16, 2023
 
 V1.0.0: Released on October 7, 2023
 
-V1.1.0: Release pending | Under closed testing
+V1.1.0: Released on October 28, 2023
 
 ##
 
